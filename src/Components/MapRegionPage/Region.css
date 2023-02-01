@@ -1,0 +1,19 @@
+@import url("~leaflet/dist/leaflet.css");
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}
+svg.leaflet-image-layer.leaflet-zoom-animated {
+    width: 50px !important;
+    left: -29px;
+    font-size: 15px;
+    height: 50px !important;
+    top: -21px;
+}
+#global #global-right .leaflet-container {
+  height: 52vh !important;
+  border-radius: 6px;
+}
+#global #global-right .global-titlebar {
+  margin: 5px;
+}

@@ -1,0 +1,44 @@
+.top-container-wrapper {
+    display: flex;
+    border: .5px gray solid;
+    width: 95%;
+    margin: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.top-container-content {
+    display: flex;
+    width: 23%;
+    background-color: blue;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.selected {
+    display: flex;
+    width: 23%;
+    background-color: red;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.notselected {
+    display: flex;
+    width: 23%;
+    background-color: blue;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}

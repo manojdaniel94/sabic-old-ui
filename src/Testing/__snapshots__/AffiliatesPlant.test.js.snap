@@ -1,0 +1,1097 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Affiliates component renders without crashing 1`] = `
+<DocumentFragment>
+  <div
+    class="affiliates-outer"
+  >
+    <div
+      id="affiliates"
+    >
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+      <div
+        class="affiliates-box"
+      >
+        <div>
+          OLF 1
+        </div>
+        <div>
+          <span>
+            HEALTH INDEX
+          </span>
+          <span
+            class="green"
+          >
+            29%
+          </span>
+        </div>
+        <div>
+          <span>
+            PM COMPLIANCE
+          </span>
+          <span
+            class="blue"
+          >
+            70%
+          </span>
+        </div>
+        <div>
+          <span>
+            ACTIVE ALERTS
+          </span>
+          <span
+            class="red"
+          >
+            87
+          </span>
+        </div>
+        <div>
+          <span>
+            UNDER INVESTIGATION
+          </span>
+          <span
+            class="blue"
+          >
+            1
+          </span>
+        </div>
+        <div>
+          <span>
+            OVERDUE INVESTIGATION
+          </span>
+          <span
+            class="red"
+          >
+            86
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

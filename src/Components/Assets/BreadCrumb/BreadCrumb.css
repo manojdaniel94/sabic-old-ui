@@ -1,0 +1,22 @@
+#content-breadcrumb a {
+    color: #000;
+    padding: 0 20px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font: normal normal 11px arial, helvetica;
+    border-right: 1px #ccc solid;
+    text-transform: uppercase;
+}
+
+#content-breadcrumb a:first-child {
+    padding: 0 20px 0 0;
+}
+
+#content-breadcrumb a:last-child {
+    border-right: 0px #ccc solid;
+}
+
+#content-breadcrumb a.active {
+    font-weight: 900;
+    color: #06a1e0;
+}
